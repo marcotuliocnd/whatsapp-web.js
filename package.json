@@ -1,6 +1,6 @@
 {
   "name": "@marcotuliocnd/whatsapp-web.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A fork of the Library for interacting with the WhatsApp Web API ",
   "main": "./index.js",
   "typings": "./index.d.ts",
